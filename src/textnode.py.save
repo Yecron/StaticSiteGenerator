@@ -1,0 +1,17 @@
+from enum import Enum
+
+class TextType(enum):
+	BOLD_TEXTTYPE = "bold"
+	Italic_TextTypeclass TextType(enum):
+        BOLD_TextType = "bold"
+        Italic_TextType = "italic"
+        Code_TextType = "code"
+        Links_TextType = "links"
+        Images_TextType = "images = "italic"
+	Code_TextType = "code"
+	Links_TextType = "links"
+	Images_TextType = "images"
+
+class TextNode(TEXT, TEXT_TYPE URL){
+
+}
